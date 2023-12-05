@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_red50">#FFEBEE</color>
+    <color name="_red100">#FFCDD2</color>
+    <color name="_red200">#EF9A9A</color>
+    <color name="_red300">#E57373</color>
+    <color name="_red400">#EF5350</color>
+    <color name="_red500">#F44336</color>
+    <color name="_red600">#E53935</color>
+    <color name="_red700">#D32F2F</color>
+    <color name="_red800">#C62828</color>
+    <color name="_red900">#B71C1C</color>
+</resources>
